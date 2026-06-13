@@ -22,7 +22,7 @@ This guide works with `bash`, `zsh` and `fish`.
 2. Clone this repository into `$HOME/.homesick/repos/<NAME_OF_YOUR_SENSITIVE_DOTFILES_REPO>`:
 
    ```bash
-   git clone https://github.com/mamiu/sd-template $HOME/.homesick/repos/$SENSITIVE_DOTFILES_REPO
+   git clone https://github.com/paulmiu/sd-template $HOME/.homesick/repos/$SENSITIVE_DOTFILES_REPO
    ```
 
 3. Create a new private sensitive dotfiles GitHub repository with the name you chose in step 1.
